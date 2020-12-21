@@ -1,0 +1,104 @@
+# Recognizing Relatives
+
+## Lecture 8 (Recognizing Relatives):
+
+Heritability vs variability - heritability means humans will almost universally have 5 fingers, while variability means there will still be some humans with more or fewer fingers due to env factors.
+
+Landmark study: ppl in Nepal are better at playing Chutes and Ladders than ppl in Belgium. Might be genetic component. Had a huge sample size, was env-controlled, everyone involved was cross-fostered with people from Ecuador. How big was the score difference? This is the biggest question you should be asking, above all else.
+
+Science (journal) 2007 - IQ and birth order - showed among 250,000 18-yr-olds in Norway - reliable IQ diff btw 1st-born and latter-born. Found a difference - 1st-borns have higher IQ than latter-borns. Ruled out parental investment to 1st-borns by showing that only-children have lower IQ avgs than 1st-borns with younger siblings. 
+
+Up to age 12, latter-borns tend to have higher IQ’s than 1st-borns, reverse is true by age 18. Why the flip? Biases in IQ testing? No, ruled out by comparison to only-children. Egg quality? Age of mother? Ruled out. What’s diff btw 1st-born and latter-born in utero? Stress lvls? Immune sys quality? Ruled out.
+
+One main model: 2nd kid shows up, env is dumbed down bc of new baby. 
+Another model: 1st-borns get pushed into a tutoring position to the latter-borns.
+
+Perfectly statistically reliable study, scientifically valid, had all proper controls, etc. What was the difference? 2.3 IQ points. Not a big difference. Even though the correct methodology is there, the results are not that significant. Huge diff btw confidence in the results and magnitude of the results.
+
+Question to focus on: How do organisms recognize relatives?
+
+Doesn’t take fancy organisms - deer mice - some mono/polygamous - polygamous mates with many males - intrasexual sperm competition, just like the flies earlier. If sperm clumps together, ball of sperm travels upstream faster. Would only want to clump together with each other from same male - polygamous sperm can recognize their kin. How? Not just organisms recognize kin, but cells do too.
+
+In lots of species - innate regoc of relatives - shown by cross-fostering of babies - if babies can later behaviorally differentiate btw their sibs and non-sibs, there’s something innate about this ability, even if crossed in utero.
+
+Another way of showing this: 2 diff litters from same parents - no shared prenatal env - showed recog - put in env with sib’s urine and stranger’s urine, and sib’s is preferred. More subtle - prefer urine from full sib rather than half sib, half sib from cousin, etc. to 3rd or 4th cousins.
+
+What’s the mechanism? Olfactory signatures - pharamonal communication - requires qualitative diffs in urine and olfactory mech to pick up diffs. 
+
+Way to tell diffs in urine smells - “histocompatibility” - gene juggling - stretch of genes undergoes splicing, transposition, juggling to make unique protein to that specific individ org - “major histocompatibility complex (MHC)” - involved in organ transplant rejection/acceptance - how much of a shared antigenic determinant does this sig protein have with other orgs?
+
+Every org makes unique signature protein on all its cells that’s recognized by immsys so it doesn’t eat your own body. Tropical parasite: schistosomes - steal your MHC proteins to disguise themselves.
+
+These proteins can become soluable and free themselves from your cells and come off in your saliva, sweat, urine, etc. - gives unique ID to pharamones - how animals can detect relatives - inc lvls of similarity btw structure of sig protein based on how related relatives are. 
+
+How is generated an olfactory system that can detect this? Lock and key - receptors compliment sig protein and send signals if related proteins detected. Beginning of if->then clause: iff close relative, then cooperate.
+
+How does the olfactory system do this?
+
+2 relevant horms made in olfacttory system: oxytocin, vasoprecin - has to do with pregnancy and after-birth dev of nose, eyes, ears, but this is the tip of the iceberg: also make MHC cells attuned to the MHC proteins.
+
+Knock out oxytocin/vaso recepts/genes, and you get social anosmia - inability to smell pharamones, and thus individs. 
+
+Emerging lit showing mutations in genes related to oxy/vaso in high-autism fams - enormous deficits in social relations.
+
+Taught in Intro neuro - “adult neurogenesis” adult brains don’t grow new neurons - false. Happens in two areas in brain: 
+hippocampus - learning, memory - learn a new fact, stimulate neurogenesis here. Get stressed, make fewer neurons here.
+largely ignored - behind olfactory bulb - fem rodent around pregnancy - making new neurons here massively - driven by prolactin lvls around pregnancy - results in completely renovated olfactory system to quickly recog her babies. Maybe why smells/tastes are diff during pregnancy? Why you crave pickles, etc.? Endocrine reg optimizing olfactory bulb.
+
+Why do you want to know who your relatives are? It’s with whom you mate, cooperate, kill, take care of, pay social attention to, gossip about, etc.
+
+Study - baboons - recorded and played voices of two animals from that group - voice of lower-ranking animal giving dominating vocalization and higher-ranking giving terrified, subordinating noise. Baboons paid attention if lower was trashing higher if they weren’t related, and no-one paid attention if they were.
+
+Additionally, olfaction tells you who to mate with - non-relatives bc of genetic problems, but could also mate with relatives bc of genetic similarity, inclusive fitness, kin selection advantages - schism between these two ideas.
+
+Many models tested - concluded that, in all sorts of species, optimal balance in avoiding genetic disasters coming from inbreeding was to mate with 3rd cousins
+
+Martha McClintock - U of Chicago - Wellesley Effect (menstrual syncing) - tested appeal of odors btw ppl - 3rd cousins’ most appealing - no way of doing that w/o knowing who you’re related to or the extent to which you’re related.
+
+Next, species who don’t do this innately, but imprint early on. 
+
+It is innate that you have recepts in your olfactory neurons that can detect how closely related you are to other individs. Oxytocin/vasoprecin increase the number of those receptors made, but they’re there regardless.
+
+Prolactin appears to put more oxy/vaso recepts online at birth (instead of more copies of recepts, makes more neurons). 
+
+Another way of recog is by learning to do it. That the learning takes place is innate, what is learned is experiential.
+
+Lots of species learn their mother’s voice, odor, appearance, etc. and each species is better at diff ways of doing that. What goes into learning offspring’s odor? This is not innate. Goats, sheep, etc. don’t have the ability to smell individs. 
+
+Simple rule: a bunch of babies out here, which babies are mine? Take care of which child smells like my vaginal/amniotic fluids, or I lick them as they’re coming out and it’s the one who smells like my saliva, scent marks, breast milk, etc. This learning builds on whatever senses the animals already have (“imprinting”).
+
+How does a baby recog sibs? Whether they smell like mom. 
+
+How can it be proven that this is not innate? Cross-fostering. Mother takes care of other kids anyway. Other factors override the fact that the kids smell diff.
+
+How do humans recog rels? We neither recog innately, nor by learning/imprinting. We do it cognitively, we figure it out or see mom giving birth. (isn’t really how it works all the time, but regard as true for now). 
+
+How do they know who the father is? Not by smelling MHC proteins, but a cognitive strategy. “This person’s been around my whole life” or “This person looks like me or a family member.” 
+
+We have brain mechs that are good at cognitively figuring out rels, but are not only species that does. Baboons do this too - polygamous - not clear who father is, but they play a guessing game based on statistics. 
+
+Usual rule: baboons are highly-tournament species - only some males take care of offspring. Those males are the ones who are down on their luck and have little chance of mating with other females - settle down and take care of kids.
+
+Unusual circumstance: bunch of males interested in more desirable fem - general pattern is fem tends to mate with others before/after ovulation and “main mate” on day of ovulation - after birth, main male decides “is this my kid or not?” They figure it out using statistics and probability.
+
+Main male more often tends to take care of the kid than other males. This isn’t innate recog, it’s thinking through it.
+
+Another smart version of this: sunfish - David Sloan Wilson - some males very paternal - guy mates, has kids, starts to take care of them - put dad in next tank over and put a clear box with another male inside next to the fem - dad goes crazy - after she gives birth, dad put back into tank and then doesn’t take care of kids as much. No diff in sensual cues, therefore cognition is behind this bh.
+
+How do our brains do that? Fusiform cortex - good at facial/expr recog - ppl w/ autism, this part has lesser function - non-human primates have this as well as other animals like sheep, pigeons, crows.
+
+Human mothers also good at recog smell of their baby right after birth - shown to have MHC part to it - not purely cognitive strategy, but some innate olfactory signaling. Babies after birth good at distinguishing mom’s smell. How to prove? Take a baby and introduce two smells: one from mom and one from stranger, and baby turns its head more toward mom’s side. Can’t tell dad from other males, uses cognition to tell.
+
+Newborns recog mom’s voice through her body fluids, but not dad’s. Not cognitive or innate, learned. 
+
+Series of studies done showing humans do very little cognitive strategies when determining rels.
+
+Joseph Shefur - anthropologist - studied Israelis growing up on kabutzes where one parent just as good as other, kids raised in community bathtubs - kids brought up in own age group (all kids born on year X) play, bathe, etc. together - found that if raised in own age group up to age 6, *never* marry within that group. 
+
+Study was done on every individ who ever grew up on the kabutzes. Shows non-cog strategy - if they feel like a sibling, don’t mate.
+
+Arthur Wolf - anthropology dept. Stanford - Taiwanese marriages - either brought up with future spouse from early infancy, or marriage happens later - marriages end up in disaster bc they feel like sibs.
+
+If lots of time spent figuring out who rels are, possible to feel/be made to feel more/less related than we actually are - “pseudo-kinship/-speciation.” When it comes to human violence, we are easily manipulated into putting individs into “us” or “them” categories. Used by the military - works bc we are not purely rational.
+
+
