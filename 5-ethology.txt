@@ -1,0 +1,183 @@
+# Ethology
+
+## Lecture 9 (Ethology):
+
+If you want to underst bio, underst in most natur env as possible - underst animals in their natur habitat.
+
+1900 - William James, psychologist - psych was introspective philosophy at this time - some young Turks wanted to make psych a quantitiative, empirical science. All interested in: what bh are we looking at, and what happened in that org a second before the bh?
+
+John Watson - mold a child into what you want - behaviorism
+
+BF Skinner - bh psychologist - all about bhm. Radical env-ism - all blank slates that can be taught everything they are - didn’t consider genes.
+
+Reinforcement theory - control reward/punishments, and control bh whether fish or human - bh shaped by env.
+
+Universality - it works this way in everyone and every species - rat = giraffe = human - bh just inputs and outputs. Invented all sorts of utopian societies in books - believed study of insects, etc. could shape society by same methods used for insects.
+
+Meanwhile, Europe birthed diff thinking. Butterfly collecting became a thing, and so did study of variety of phenotypes, and then bh- ethology developed.
+
+Starting Three in ethology: Niko Tinbergen, Konrad Lorenz, Hugo von Frisch, got Nobel prizes.
+
+Bhm - about radical env-ism, eth - about gene/env interactions
+
+Bhm - positive/neg reinforcement - animals aquired new bhs that broke every of their rules
+
+Eth - env challenges solved in unique ways - interviewing animal in own language - must be out there in real field - must be open-minded on what counts as that animal’s lang
+
+Ex: 1960’s - rats put in varied, enriched, interactive env with other rats - results in thicker cortex - prompted many 60’s studies - one study studied wild rats - best rats with thickest cortexes of all rats raised in enriched env were still thinner than wild rats’ - what eth built on
+
+Worked out clear exper approaches answering 5 W’s: looked at 
+“What was the bh?” - “fixed action patterns”
+“What triggered said bh?” - “env releasing stimulus”
+“What’s going on btw stimulus and response?” - “innate rel mech”
+“What’s the adaptive val of said bh?” - means s.th. diff to ev-sci than to eth
+
+Fixed action patterns - instincts? reflexes? No. Bad connotation along with the terms.
+Not maternalism or entrepeneurship, but relatively trackable bh involving interconnected muscles producing meaningful bh 
+
+Didn’t have to learn how to do these, but had to learn how to do these better. Exp changed the way FAP was done to optimize the action - when/not to do it in which ctx
+
+Ex: simply known bh  - can do it right, but exp does it better. Charlotte’s babies saying “salutations” - Lorenz studied for years
+
+Ex: squirrel - raised in cage, never has seen another sq - nothing but liquid diet - give nut, will know how to crack it. Look at sq over time - learns to crack nut better with practice.
+
+Ex: intro psych - room with checkerboard linoleum ledge with glass above it level with the floor with scared animal looking down - “visual cliff response” - not learned. Push the animal onto the glass, they freak out. Baby sloths don’t freak out - arboreal.
+
+Ex: captive primates - never seen another monkey - male - show him film of huge scary same-species monkey being scary - monkey freaks out, crouches down, doesn’t make eye contact - not learned, but still does it. 
+
+East african vervent monkey - scared of leopards, snakes, and eagles - fixed alarm calls for each predator w/o exp - can be sculpted by exp - young VM w/ FAP - learn to not screw up - no one reacts until adult agrees with alarm call.
+
+Ex: human infant smiling - muscles produce smiling w/o exp - even in blind babies - FAP = learn who to smile at.
+
+Human infant - nursing is FAP - get more efficient at it
+Everyone recog anger, contempt, sadness, etc. - learn to interpret as good/bad news, etc.
+
+“What’s the adaptive val to evolution?”
+
+Eth did exper to explain FAPs.
+
+Ex: gull eggs - FAP: mom turned over eggshells so speckled part is facing up - Tim Bergen turns shells over to white - easier to see by predators and chicks are eaten by the time mom gets back with food.
+
+Ex: von Frish - bee dancing - bees communicate location of food src by flying in figure-8 patterns - tells other bees how far away, how much food, etc. FAP: “waggle dance” - von Frisch dissected the pattern and found three distinct things:
+axis of figure-8 tells dir at which food is w/ resp to angle to the sun
+length of dance - further away food is
+more frantic dancing - richness of food src
+
+Take beehive, put it in field - grab a bee, give it food src, it goes back to hive and goes crazy - rotates hive 180 degrees, bees go in wrong direction. Put food src closer, further away, diff food, etc.
+
+Next category of questions: “What was rel stim?”
+
+Baby birds peck at mom’s mouth - gets mom to regurg food - how? Mom’s beak has little red circle - maybe a rel stim? 
+
+What expers done to test this? 
+Subtraction - white-out red circle - do kids peck? 
+Replacement - put red back
+Substutition - put in neon triangle instead of red circle
+Superstimulation - wave paper with red circle
+
+Eths made robots to test bh responses. Robot bees danced for real bees and made them fly in certain dirs. Similar done with robot cockroaches - tricked other cockroaches into some bh’s.
+
+Ex: auditory stimuli - elk bulls - try to find a mate - bellowing calls - triggers ovulation in females.
+rats responsive to tickling - they can giggle (in ultrasonic range) and come back for more - record and play laughing sounds attracts other rats
+
+Ex: humans - when ovulating, voice gets slightly higher - males pick this up.
+
+Ex: turkeys - visual rel stim - what makes males attractive to fems? Made artificial fem turkey - what actually attracts the fem? Began to mess with visual stimuli and record what worked.
+
+Also olfactory rel stims
+
+Ex: humans - sweat from terrified people - throw someone out of airplane who’s never skydived before - control group on exercise bikes - let ppl smelled diff sweat - can’t distinguish, but can in brain scans - smelled scared sweat, anygdala activates. Changes way ppl recog, judge facial expr - smell scared sweat and see face with in-between expr, amygdala activates.
+
+electric fish - if you want to understand their bh, understand electricity and how they use it natively to communicate. Males compete for fems by jamming freqs of other fems
+
+insects comm by vibration - vibr web in patterns allows spiders to comm.
+
+Kaitlyn O’Connel Rodwell - elephants - pressure sensors in their feet picking up walking vibes - use these for comm.
+
+Iconic exper - surrogate mother monkeys - monkey babies raised in captivity - presented with two dummy moms: chicken wire w/ milk, other with soft cloth - one provides nourishment, other provides comfort - when scared, monkey rushes to comfortable dummy.
+
+Pediatric wards - infants in there for few weeks - parents only allowed to visit 30 mins/week - infants kept going just by that contact. 
+
+Harry Harlow - love has more to do with well-being than nourishment.
+
+“Cute responses” - many baby animals are “cute” - illicits similar responses all around the animal kingdom - studied by Disney illustrators
+
+Steven J Gould studied early Micky Mouse - starting 1920’s Mickey was called “Steamboat Willie” and was a skinny, crass, aggressive, angular-looking rat character who gradually turned into the cute Mickey. Disney learned what about baby animals made them cute and liked by ppl.
+
+“What’s going on btw stim and resp?” - neuroethology - how the brain turns stimuli into bh
+
+Ex: neurobio of bird song - how learns species’ own song? how learns to make unique song? how creates new songs? how imitates other bird songs?
+
+Ex: reflex - fem hamster - put pressure on rear - lordosis reflex - arches her back - what’s the adv? exposes genitals, makes her easier to mount during ovulation - only get resp during ovulation. One person got this tactile stim on-point, identifying individ neurons, etc.
+
+humans put in brain scans to measure non-speech sensory comm and related brain activity.
+
+Additional elaboration: neuroeth in the field 
+
+John Wingfield - U of Washington - studied birds that migrate yearly from Baha to the arctic - traps birds, puts electrodes in heads, lets them go, measures brain activity in natural hab.
+
+Baboons studied for anxiety in nat hab - personality-related diffs related to benzo recepts?
+
+Important to neth: what sense is dominant? Probably has big brain region - brain function and anatomy in accordance with that animals’ strengths/weaknesses.
+
+What does learning have to do with this? Early neth showed many bh’s that were learned, not instinctual.
+
+If fem Rhesus monkey, maternal responsibilities not instinctual - have to learn many childrearing things by trial-and-error. Evidence? Lower mortality rate from baby-to-baby with same mothers. Mothers learned by watching their sibs and children.
+
+Meercats - eat scorpions - mom has to teach baby how to hunt scorpions - teaches in stages, first bringing dead scorpions and showing it how to eat them, then captures scorpion and bites off stinger, gives to kid who learns to kill and eat them, then captures live intact scorpion and shows kid how to kill and eat them under supervision.
+
+Ex: making tools - apes - Jane Goodall discovered - use tools to break open nuts, fish out termites, etc. - one pop, males fashion big pieces of wood for weapons - learning by seeing and doing speeds up learning proc - daughters learn faster bc sons are less attentive - the larger the soc group, the earlier tool-making is learned. Monkeys can’t do this, but apes can.
+
+Showed unexpected types of learning:
+
+Ex: “one-trial learning” - animals learn after one exposure - Konrad Lorenz - monkey warning calls. Critical learning period - baby birds attach to first big, moving thing they see - mom
+
+“Prepared learning” - sauce-bernaise syndrome - U of Penn. - Mark Sullivan, psych - went for dinner, then to concert, then home, got stomach-ache, recovered. Months later, has same food, smelled repulsive - assoc w/ stomach-ache. Wasn’t repulsed by the opera after dinner bc no assoc made.
+
+Ex: bees - remember marker/food src - modify marker shape, color, smell, etc. - showed bees learn smells faster than other senses
+
+Ex: “humans are innately scared of spiders/snakes” - not true, celebrated in some cultures - humans show prepared learning with spiders/snakes - takes less assoc to be scared of these.
+
+Ex: show monkeys a flash of a pic, and then same pic with 1 difference - humans/monkeys better at spotting diffs if diff is a snake/spider. Animate objs also easier to pick up.
+
+Final domain in eth: understanding internal cog/emotional life of animals. “Cog eth”
+
+Donald Griffin - towering figs of animal bh - discovered echolocation - helped invent sonar - brought up possibility of animal awareness - outlined research prog to try to study this.
+
+Do animals have self-awareness? Gordon Gallup - captive chimp given mild anesthetic - drew circle on head with mirror in room - can chimp figure out the reflection is him? Yes, scratched at spot. Gold standard for animal self-awareness tests.
+
+Marmoset monkeys don’t have self-awareness, but marmoset researchers showed they do - they don’t look at their eyes in their reflections - result of soc customs.
+
+Theory of Mind - at what pt do you realize there are other individs who have diff info about the world than you? 
+
+sally-anne test: kid has doll, goes to preschool, mom washes doll and puts on top of the dryer - kid comes home and looks in the bedroom - inconceivable to kids reading the story that the child doesn’t know where sally is bc they do.
+
+Two chimps: high/low-ranking - experimenter puts food in cage with dividers btw - one glass, one opaque - low only tries to get food if high is behind its divider, otherwise it figures high already saw food and doesn’t bother. 
+
+If high switched out for other high, low goes for food bc he figures the new high, bc he’s new, doesn’t know there’s food there yet.
+
+If high switched out for low, original low doesn’t care and goes for food anyway. Shows low has diff info about world than high.
+
+Don’t know how to do theory of mind in non-motivational/competitive contexts.
+
+Ravens/crows highly intelligent in eth studies - food stashing done diff based on if they’re being watched by other birds or not. If not, hides the food. If so, doesn’t bother, and moves food away.
+
+Animals can distinguish btw un/intentional bh’s
+
+Ex: captive chimp w/ food, two circumstances: human bends down, takes food, and throws it, and other: human walks along and trips over the plate. Chimp acts more aggressive for the deliberate action. Dogs do this too.
+
+Animals can plan for future
+
+Ex: corbid birds - two compartments to go into - put food back and forth btw compartments - large/small portions alternating according to day - birds stash food in cpmt w/ less for later.
+
+Bees - show food src - dance for colony - give bee ridiculous loc for food like in middle of lake - bees don’t go looking for it. They see the bullshit
+
+Animals have numerosity - numbers are a thing
+
+Ex: show chimp 3 objs, ask him to pick one, if picks right one, get food - change arrangement of objs, start making mistakes
+
+Ex: chimps vocalizations’ recorded - big male bellows - play sound to other chimps who don’t recog bellow, males run over to investigate - play two bellows, three, etc. - if more voices than # of chimps in group, the group runs away. This shows they know # in their group, # calls being played, and which # is bigger.
+
+Animals possess transitive thinking - A defeats B, C weaker than B, so C subs to A - seen in fish and other animals.
+
+
