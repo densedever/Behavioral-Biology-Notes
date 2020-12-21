@@ -1,0 +1,205 @@
+# Limbic System
+
+## Lecture 14 (Limbic System):
+
+lsys = limbic system
+
+Focusing on emo-centered part of brain. Some very logical strategies going on.
+
+Ppl started studying lsys in rats - rat brain - olfactory sys in front of rodent brain - huge, 40% of rodent’s brain. Called “rhinencephalon”, what was known as lsys at the time.
+
+50s-60s it was found that this construct is involved in emotion - is it emotion or olfaction? Think like an ethologist: rat - no emotions that aren’t intertwined w/ olfaction - utterly driven by olfactory info. 
+
+“So what’s up with a rhine in a non-olfactory rodent? What about auditory stuff?” Enlarged parts in those brains are the parts involved in their major senses.
+
+Overview of large parts of NS:
+
+Brain - 3 pieces - paul mcclean, 50’s - “triune brain”
+Hypothalamus (he called “reptilian” part of brain - autoreg) - horm influ metabolism, body temp, etc.? Thyroid horm. How does hypo know what’s going on? Nerves to measure temp. It also regs blood gluc lvls, has pancreas on line 2. Also regs BP, heart rate, measures horm lvls, etc.
+
+“Odin’s curse” - damage to midbrain areas - lose ability to breathe automatically. Don’t die of asphyxiation, but sleep deprivation from almost asphyxiating and waking up.
+Limbic system (mostly mammalian) - fish, reptiles, birds, etc. don’t have specialized emo centers.
+Cortex - for cognition - greatly expanded in mammals, more so in primates. The dichotomy of the cortex being the independent logical cognitive calculator doing the thinking, and the lower brain doing all the emo stuff, is wrong. Many cortical funcs influ by horms, and thus, by the lsys. Times of extreme emo arousal - make stupid decisions - proof that emos s.times runs cognition. Thinking about stressful situations kicks off horm sec just by thinking. Tons of cross-talk btw cortex and lsys
+
+Antonio Demascio - ”Descartes Error” - no separation btw thought and emo
+
+Lsys has subparts - controversial on which parts are part of lsys - looking at circuitry and func of subsys - James Pates, 30s neurologist - first person to think systematically about rhinencephalon structures sending projections to each other, seems to be organized model. “Pates circuit”
+
+“Connections” - projection - neurons send APs to other neurons, forming synapses, forming connections, projections. What parts of brain talking to what other parts?
+
+Everything in lsys controls/influ hypo. Hypo = central hub for neuro-endo stuff - emo/bh central. Hypo plays role in autonomic NS. All stuff about emos affecting body is result of lsys influ’ing hypo.
+
+All circuitry in lsys built to influ hypo func. Also doesn’t want other parts of lsys to control hypo. All sorts of areas meant to stim parts of hypo and inhibiting other parts of lsys.
+
+1 rule for working out lsys circuitry: area of lsys wants to influ hypo, how many syns away is the hypo? How many neurons? Good rule when looking at influ. Shorter sigs more effective than many jumps over long distances that could get redirected or taken over. Most lsys regions have diff ways of getting info to hypo - differ in # syns, and thus power.
+
+Olfaction - humans not particularly olfactory - every sensory modality has to go thru 3-4 syns before affecting lsys, except for olfactory sys - 1 syn away. Olfaction better for recalling emo-driven mems.
+
+Structures of the lsys
+
+Will be important to learn.
+
+Pit
+Hypo
+Amygdala - dense cluster of neurons (cell bodies, clusters of nuclei, projections)
+Grey matter - neuronal cell bodies
+White matter - myelinated cables of axons
+
+Amygdala - “almond” - 
+Hippocampus - “seahorse” - big structure
+Septum - means “midline structure” - in midbrain
+Mammalary bodies - 
+Thalamus - “hyperthalamus”
+Hypothalamus
+Ventral tegmental area
+Nucleus accumbens
+
+Volly Nalda - neuroanatomist - 50s studying neural connectedness - said one part of cortex should be classified as part of lsys - “frontal cortex” - predicted it made sense anatomically, and was right. (more terms)
+
+Frontal cortex - part of brain most “you” - last part of brain to mature - not fully myelinated until about age 25 - intertwined w/ lsys - evolved w/ soc bh, gossip, soc rels, appropriate bh, social intelligence
+
+Ian Dunbar - 150 diff primate species - what % of brain made up of frontal cortex? Single best predictor - how big is this species’ social group? Bigger soc group, bigger frontal cortex - dev’d for gossip, soc int/rel, etc.
+
+How do these areas conn w/ each other? 
+
+Every limbic region conns with other limbic regions.
+
+amygdalofugal pathway - carries info btw amyg and hypo thru amygdaloid neurons (amyg involved w/ fear, anxiety - hippo helps remember stuff) this interconn allows us to remember stressful situations.
+
+fimbria fornix - fornix = “arch” - pathway from hippo to septum. Septum goes to hypo back on to mammalary bodies - projections going back to medial forbrain bundle.
+
+striae terminalus - from amyg straight to hypo, going around hippo. Why the loop? Not so close to each other in embryo - had to go around hippo before close enough to make efficient conn.
+
+Weird wiring tells about evol / dev of org.
+
+Deciding you want to bend a finger. How?
+Logical thing: part of motor cortex sends “bend” msg to finger
+Real thing: parametal NS sends “bend” sig to all 5 fingers, another extraparametal NS filters out sig to some fingers. Seems weird until you look at evol of the sys. Not a whole lot of species need finger dexterity, so mechanism is crude. 
+
+Total rewiring of entire sys too inefficient for evol, instead fits modified sys on top of what’s already there. Extraparametal sys more recently evolved.
+
+“evolution is not an inventor, it’s a tinkerer” - still stands - squids are better swimmers than their barnacle ancestors.
+
+More wiring:
+(remember that every structure is conn to every other structure, if but subtly)
+Mammalary bodies talking to thalamus “mammalo-thalamic track”
+Thalamus talking bidirectionally to frontal cortex
+Ventral tegmental area - sends info everywhere bidirectionally.
+nucleus encombens
+
+Amyg tells hypo what to do. How?
+Choice: via striae terminalus - 1 synapse away, or talk to hippo -> septum -> hypo.
+Where’s the important stuff coming out of amyg to hypo? Via the striae terminalus.
+
+What’s this comm about? Amyg telling hippo to shut up so it can dom hypothalamic events - “how many syns away?” is important.
+
+Now straying away from “A sends to B” and instead looking at function.
+
+How do you find out the func of lsys?
+
+Most helpful thing to neuroscience: constant warfare - lots of brain injuries. There was HM, who got his hippos removed, and there’s MA, who got his septum removed - damaged in “mini fencing foil.”
+
+Frontal lobotomies - intentionally damaging not frontal cortex, but lsys structs - done with an ice axe.
+
+Taking experimental animals and destroying certain brain regions - what doesn’t work right anymore? Might have found out what that part does.
+
+Electrically stimulate brain regions, simulating inputs to neurons and creating APs there. Rarely done, except as last resort for intractable epileptics - stimulate on the way to make sure in right place.
+
+Could also put recording electrode to find out when APs are pulsing thru certain parts of brain. Can record from one single neuron at a time.
+
+“Patch clamping” records from single ion channels.
+
+Put in recording device, tells you what’s happening w/ certain bodily actions by looking at what happens with neurons when action happens.
+
+Biochemical stuff - measuring ntm lvls, gene expr, learn s/th/ about func.
+
+Image brain regions - don’t have to wait for ppl to die - CAT/CT/MRI - can see brain areas, size, activity, metabolic rate, etc. Kind of like recording electrodes.
+
+Functional brain imaging can tell when region is active by, say, how much oxygen or glucose being consumed there. Can get pics of entire brain at once. 
+
+Showed parts of brain plastic enough to change size over time w/ emo exp. Amyg gets bigger w/ PTSD. More metabolically reactive w/ PTSD than w/out. Stress situations cause neurons in amyg to grow more dendritic procs. In hippo, ppl w/ major long-term depression, amyg atrophies, gets smaller.
+
+Tools come w/ limitations. Many caveats, so very difficult to interpret the data.
+
+Every day, 2 or 3 dozen tractor trucks bring tons of garlic from Cally. Where in Cally is it coming from? Carpet bomb Cally until no more garlic comes, and you’ve found the src. But did you destroy the src, or cut off the roads? Have you destroyed the cell bodies or the axons? Src of many early mistakes in neurobiology. What if both clumped together? Hard to tell which.
+
+If figured out really cell body, what center in brain is it? The center for feeling depressed, gratitudinous? That’s the center of lsys for that. Compartmentalized brain model like this is very flimsy and problematic.
+
+Ethologist makes good neurobiologist? 
+
+Ex: Found part of brain - lsys structure - stick stim elec in and see what happens. 
+Lion - extends paw on stim - stim same brain region in human, subject gets frustrated. Found part of brain involved in frustration.
+
+Ex: stim elec - rat - run around in cage, rip up newspaper, stick in corner. Do with Rhesus monkey, starts holding cylindrical things to nipples, etc. maternal bh - rat was making nest.
+
+Ex: went utterly wrong - part of hypo thought to inv depr - rat and mouse in cage - stim elec in rat - goes crazy and attacks mouse - in human, leap to cereal box and starts eating - rats eat mice sometimes, so that wasn’t aggro, but hunger - feeding bh. 
+
+Must know your species. Must also know your individ. 
+
+Ex: 2 lions - stim elec in 1st - extends paw and roars - 2nd lion, nothing happens. 2 baboons - 1st threat yawn, 2nd nothing changes. What’s the difference? Dominance. Do it to dominant, activate FAP for that org, but subs don’t display that FAP.
+
+Given all this, what do certain lsys structs do?
+
+1st pass: simplified version. 2nd pass: disproves 1st pass.
+
+Amyg - centrally inv w/ fear/anxiety. Also central to aggro. Cannot understand neurobio of being angry w/out neurobio of being afraid - part does both functions, suggesting when not afraid, also not aggro. Also plays role in male sexual motivation. May explain confusion of sex and aggro.
+
+2 synapses away - septum - if amyg stims aggro, septum inhibits aggro. Tries to silence each other “cross-inhibitory projections” 
+
+Hippo - inv in learning and mem - also turns off stress response - measures horm gluc lvls. Why? 2 ways: 1 - stressful circumstance, remember how to get out of it in future. 2 - stressful circulstance coming up, remember how got out of it earlier.
+
+Mammalary bodies - inv w/ maternal bh.
+
+Prefr cortex - maturation, learning appropriate sexual bh, when to be aggro, when anterior singulet has problem. Poke finger w/ needle, this part activates. Watch loved one get poked, also activates. Inv in empathy, pain. Clinical depression - s/th/ wrong w/ prefr cortex.
+
+Ventrao teg. area, and
+Nucleus encumbens - pertinent to depr - all dopamine-rel’ing neurons. What all addictive drugs work on. Part stims rel in all interesting places - central to understanding repetitive bh based on appetite for s.th. 
+
+Used to be known as area that activates during pleasure, but actually activates when anticipating pleasure. Also powers bh needed to get pleasure reward (motivation).
+
+Monkeys trained to get treat by pressing lever, dope lvls don’t go up when lever pressed out of boredom, but when light comes on. Block dope rise, and monkey doesn’t go for the lever when light comes on.
+
+Power motivation for pleasure far more addictive than pleasure itself, circuitry-wise.
+
+Hypo - gazillion subareas w/ variety of funcs - mostly keeping track of metabolic lvls. All profoundly affected by emo and mem.
+Ventromedial hypo - 
+Medial preoptic area - very pertinent to sexual bh. One more inv in sexual bh, one less - gender diff in size. Landmark study - diff in size depending on sexual orientiation - trans ppl differ in size not in terms of sexual orientiation, but in which gender they feel like they are. Trans ppl don’t necessarily think they have wrong sex, but wrong body.
+
+Super caismatic nucleus (scn) - circadial rhythms.
+
+Paraventricular nucleus - makes CRH. Everything sending projections to this region from parts telling it you stubbed your toe, to parts saying you’re hungry or you smell a rival.
+
+Arcuit nucleus - bottom of hypothalamic funnel where hypo horms get into local circ sys.
+
+Lateral hypo - to do w/ hunger. Also measures blood gluc/insulin lvls. S.th. to do with hungers in broader sense.
+
+Everything just said revolves around lsys stuff built around eventually influ hypo, and eventually influ autonomic NS. Starts in brain, outcomes thru body. But body influ lsys funcs too. A lof of that info received, not sent.
+
+James-Lang theory of emotion - how you feel an emo - not based on sense info, brain decides and affects body. Stim comes into brain, body already responding w/ heart rate, BP, pupil dilation, etc. How figure out which emotion you’re feeling? By its physio effects. Totally ridiculous and inefficient, but is in some lvl how it works.
+
+Ex: adrenaline, epinephrine - arouses symp NS. What does it to brain, NS, bh? 60s study - Stanley Shachter - gave ppl adrenaline w/out their knowledge. Somebody comes in believing they’re in diff study. Takes pill w/ long-acting epinephrine, goes to waiting room to wait for tests. 
+
+Real test is in waiting room. Another person there, experimenter. In half the cases, person sitting there supposed to be anxious. Other half, person really excited about study. Key: diff emo states when took pill, so does that affect pill’s effect? Do you get more angry? More friendly? No, more modulatory - kicks up favored lvl of whatever emo you’re going into. Epinephrine doesn’t cause bh, it exaggerates already-existing emo states.
+
+Ex: sitting around anxious, go to clinician, get benzos. Meanwhile, someone has gym competition, pulls muscle, goes to clinician, get benzos. Same drug, diff symptoms. Why? Same thing. Anxiety partly about measuring lvl of muscle tone/tension. Benzos work by lowering favored lvl of muscle tone.
+
+Ex: meditation - biofeedback - high BP - s.th. driving it too high - choice btw taking drugs and meditating w/ biofeedback - meditate w/ BP monitor - “focus on best day of your life”, nothing much happens. “Focus on fav music”, nothing much happens w/ BP. “Focus on music that’s calming”, and BP lowers. Learned what slows down BP.
+
+Ex: 90% of args btw sig others - you and sig other interacting, one outrages the other - furious - convinces you you’re at fault - apologize - accept - arg over, suddenly remember another bad thing they did, and want to fight all over again. Why? When in aroused, angry state, and it’s over afterward. Cognitive adjustment, takes long time for symp NS to settle down. Loop of physio info coming back before horm lvls back at baseline, and so brain thinks up reason why info still coming.
+
+Gender diff in come-down time. Also after orgasms, males go back to baseline much faster.
+
+More feedback loops:
+
+ex: clinical depr - force person to take somatic state that mediates some emos (eg smiling) - and they feel better afterward. Feedback from muscles influ emo.
+
+ex: give a test, get back results, if did good, sit up straighter from confidence boost. Sitting up straighter physically helps happiness lvls just from feedback from muscles. This completes the circle. Brain informs body, body informs brain. Junk food murders, etc caused by other part of this loop.
+
+We now have all necessary buckets, and so it’s on to the 2nd half of course.
+
+Now we’re looking at specific bh using all buckets.
+
+Sex bh, do we really understand this bh? What’s up with the neurobiology? What sensory stimuli stims the nerves? What horm lvls made those nerves more sensitive to that stimuli? Goes back to understanding the evolutionary history of specific orgs.
+
+
+
