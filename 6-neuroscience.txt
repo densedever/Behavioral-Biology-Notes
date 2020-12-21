@@ -1,0 +1,294 @@
+# Neuroscience
+
+## Lecture 10 (Intro to Neuroscience 1):
+
+Why did the chicken cross the road? This lecture tries to explain using neuroscience.
+
+Will overview brain anatomy, comm of brain cells.
+
+The CNS consists of brain and spinal cord.
+
+The brain is divided into several parts:
+
+Brain stem - relays info from spinal cord to brain, regulates signals.
+Cerebellum - helps control mvmt, esp when learning s.th. new - corrects for past errors.
+Cortex - divided into lobes
+Frontal lobe - plans actions, controls mvmt, organized by function
+Parietal lobe - procs touch info, organized by specialty.
+Temporal lobe - procs audio info, helps mem formation.
+Occipital lobe - procs visual info
+Limbic System - series of structures under the cortex
+Hippocampus - “seahorse” - forms new mems, found by surgery for seizures - “HM”
+Amygdala - involved in fear, anxiety.
+Hypothalamus - 
+Pituitary gland - 
+Spinal cord - some parts send info, others receive
+Peripheral nervous system - motor/sensory nerves
+Autonomic nervous system - controls reflexes/invol mvmts
+
+Inside the brain: what cells there, what doing, etc.
+
+Santiago Ramon y Cajal - neuroscientist - brain works as interconnected web, not as individ cells - took small slices of brain, stained cells black - drew pics.
+
+Made of neurons - functional workhorse of brain
+glia make up 90% of the brain, 
+astrocytes (apply nutrients to neurons and regulate rate of fire)
+oligodendrocytes - wrap around neurons, increasing RoF
+microglia - direct brain processes, check for viruses / bacteria, 
+all to keep neurons working.
+
+Each neuron has ~10.000 conn to other neurons (“synapses”)
+
+Parts of a neuron:
+
+Soma - body
+Nucleus
+Axon - sends info to next cell
+Axon hillock - decides to send info or not
+Dendrite - transfer info btw neurons
+Terminal - passes info along to next cell
+
+How is the signal sent?
+
+Neuron sitting there has to get heard among all the other neurons - solves by turning either completely on or off - stays off until ready to send signal (“action/resting potential”) - stays off by keeping positive ions outside the neuron using pumps.
+
+How does it get ready to fire? 
+
+Sends out a chemical signal received by dendrite (“neurotransmitter”), hits receptor that opens ion channel and ion pumps, getting more positive inside (“depolarizing”) - lets neurosignal in - neuron decides whether to fire
+
+If getting freq charge, or if lots of + charge, makes the neuron fire by opening channels, sending the signal, driving the proc with + ions coming into the neuron.
+
+All-or-nothing decision. If not enough ions, cell doesn’t fire, if enough, fires. Stops by opening up ion pumps to flush + ions out of the cell, restoring to quiet state.
+
+What happens at the synapse?
+
+1891 - proposed “neuron doctrine” - network of individ cells - separate cells can’t comm electrically, must do it chemically.
+
+Action potential made in axon hillock - decides whether to fire or not - reaches axon terminal - at end of axon (stores neurotransmitters in vesicles) - positively charge the axon terminal, releasing neurotransmitters from vesicles.
+
+Presynaptic (Signaling) neuron - the neuron signaling a synapse.
+Postsynaptic (Receiving) neuron - the neuron sent out a synapse.
+Synapse - connects pre/postsynaptic neurons together.
+
+Once neuron bound to recept, triggers one of two possible actions: 
+immediate (ion channel opening, fire AP)
+genomic (NTM binds to receptor - influence activation of important transcription factors)
+
+Neurons respond to any type of neurotransmitter, but an NTM itself can also affect a number of diff neuron types in different brain regions. Don’t need unique NTMs for each neuron, combinations of what’s there suffice. Brain’s function is diff in diff areas bc of diff networks of neurons and networks of networks. “Compartmentalization” - so only need a few hundred NTMs
+
+You’re a scientist trying to find new NTM’s - find a molecule - what evidence is there that the mol is an NTM? 
+Where are NTMs located? Only in the axon terminals. 
+What triggers action of NTMs? Demonstrate release of NTM following an AP. 
+What is the effect of an NTM? Demonstrate that, after NTM is released and binds to the recept, it creates influx of + charge in the post-synaptic dendrite.
+
+A lot of identification of NTMs already done.
+
+Dopamine (reward system, pleasure) - wide variety of functions bc brain is compartmentalized.
+Epinephrine (adrenaline, norepinephrine) - fight or flight response
+Serotonin (sleep, appetite, mood reg) - 
+Acetylcholine
+GABA - most common inhibitory NTM
+Glutamate - most common excitatory NTM
+
+Cannot bh unless you’re able to move - neuromuscular junction - muscle contractions behind movement
+
+Synapse on nerve to muscle, release NTM (most likely acetylcholine) - binds to receptors on muscle, triggering contraction.
+
+neuromuscular junctions only use one type of NTM
+
+Neuropharmacology - external manip of synaptic events.
+
+Why? Research, learning function of them, correcting for disease
+Main goal is to inc/dec strength of comm across a synapse
+Fake out the post-synaptic n w/ artif compound close to natural compounds
+Mescaline, LSD, psylocibin similar to serotonin, so bind to s recepts
+
+Variety of ways to strengthen the synaptic response
+Increase release of NTM from pre-syn-n
+How? Inc synthesis of NTM. 
+Force released NTM to linger inside synapse. How?
+Block reuptake or degradation.
+Reuptake - when NTM bound to recept and done, needs to leave the synapse - reuptake = reinsertion of used NTM back into pre-syn-n with pumps or repackaging
+Degrade - can be detected in cerebrospinal fluid, blood, urine
+Increase NTM recept activity
+recept Post-syn has affinity to NTM, find way to more strongly bind it
+Block processes able to release NTMs that charge up the dendrite
+Block NTM release/reception
+Decrease recept affinity
+
+How to find out more about neuropathology? S.th. wrong with their brain
+Difficult to measure NTM lvls, must measure urine, blood, or cerebrospinal fluid
+
+If have patient with Parkinson’s - want relief of symptoms - known by dec dopamine lvls - if globally inc dope lvls, alleviates symptoms, but changes everyth else to do with dopamine - inc lvls in mesolimbic pathway, leading to schizophrenia-like symptoms - brain is compartmentalized - same NTM serves diff funcs - so can be deleterious.
+
+Important points:
+process of AP moving along axon, how it influences influx of ions at axon terminal and release NTMs
+NTM’s degraded in reuptake
+Compartmentalization - easy to manipulate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 11 (Intro to Neuroscience 2):
+
+About mem and plasticity and how you learn
+
+Thinking about a huge spectrum of mems - fleeting, long, vivid, vague - all have same mechanism, so how does env/conflict work in shaping memories?
+
+What are mechs of mem, how are they contextually motiv?
+
+Stephen Wiltshire (autistic savant) - mute since 3yrs - drew every detail of skyline seen from helicopter - can tell us a lot about memory.
+
+Before and after the helicopter ride, what was diff about his brain? Why can’t normal ppl do that?
+
+What do we know about neurons so far? Pre/post syn cells - mem/learning happens in synapse, but why?
+
+100yrs ago, neuroscientists investigated brain and mem - thought neuron was smallest thing in brain and memories are new neurons - discovered synapse - new smallest - “mem must be formation of new synapses” - not right, bc new synapses/neurons aren’t being formed all the time - mem/storage/learning is in synapse, caused by changing the synapse.
+
+Mem = synaptic plasticity - space btw pre/post syns changes
+Pre-syn gets charged and fires - get enough response in small time - get heightened response from stimulus - Hevian plasticity - neurons that fire together, wire together - presyn rels excitatory NTM (glutamate), gets response from postsyn - info transferred inside brain thru activation - being activated requires excitatory NTMs to charge up neurons
+
+Ways to strengthen synaptic connections:
+strengthen pre-syn NTM release
+strengthen post-syn recepts
+increase # of post-syn recepts on cell
+
+Results in larger response for same input
+LTP (long-term potentiation) - can change synapse, is plastic
+
+Large red flag: “how knows presyn that LTP should be done/has been done” reqs comm btw pre/post syn cell - retrograde NTM - sent back from post-syn - ex: nitrous oxide - seeps back across synapse and moderates lvls of NTM rel from presyn
+
+Where does LTP happen in the brain?
+
+Hippocampus - where memory is formed - autistic savants good at mem don’t statically mem lists of data, they make it into a story
+
+Evidence? Adult neurogenesis/plasticity - adult brain can create new neurons - LTP happens on lvl of plasticity of the synapse. HM - hippocampi removed, couldn’t form new mems
+
+Watch/record neuronal activity in hippo while learning - see LTP if pharmablocked LTP, can see changes in hippocampus - necessary for mem consolidation
+
+Undergo all kinds of learning - motor learning, emotional events leave clearer mems - LTP not just hippo, but in emo reg centers/cortices - must store/retr data - can go wrong
+
+PTSD - severe LTP in synapses in emo reg centers - triggers repressed mems
+
+LTP can explain why some mems last and some don’t
+
+Mems are degraded, sometimes in/unintentionally - some mems fade away, some stay - mechs for intentional disruption of LTP - hypoglycemic states rel LTP, stress horms give good long-term mems - LTP can damage over time, low times are key
+
+Ethanol directly disrupts LTP in hippo
+
+Normal lvl is we’re in the middle between HM and Steven Wiltshire.
+
+Two interacting neurons are simple to understand, but there are billions of neurons and sometimes one neuron is attached to 10K more
+
+Noise can be introduced into the nerve signals. Every AP leads to NTM release, which leads to postsyn resp - sometimes random, spontaneous AP generation - major task of brain: figure out appropriate signals from noised - start considering neurons in terms of fluid dynamics interactions - not just excitatory, but inhibitors.
+
+Differentiate sig from noise - inhibit - neurons can inhibit themselves to sharpen signal sent - allows neuron to give meaningful signal
+
+Spatial inhibition - individ neuron can send procs out and inhibit its neighbors - how useful? can comm which signals it wants to send
+
+Two types of pain - sharp and throbbing - done by two types of neurons - can inhibit each other, allowing sensation to change thru lateral inhibition (LI)
+
+LI allows individ visual neurons to inhibit neighbors while sending signals - results in diff cells for diff vision.
+
+David H. Hubel, Torsten Wiesel - Harvard Nobel prize winners - we have complicated visual world, only accessible thru retina - if you trace retinal nerves back into the brain, you can see how visual input is proc’d - found 1:1 correspondence btw neurons in visual cortex and retinal cells.
+
+Where did the scene we see get constructed? Visual info is proc’d in layers in the visual cortex. Certain neurons in each layer responsive to specific types of input, such as lines, angles, contrast, edges, etc. “grandmother neurons”
+
+LI is why some optical illusions work, like the one where you see black dots in crossing white lines.
+
+LI also works with itches - scratch around the area, and sometimes this will alleviate the itch. LI of the focal point of the itch.
+
+Where are these mems stored? Neural networks - not exactly 1:1 correspondence - complicated, layered communication of diff types of neurons. If neuron activated, you don’t know where the input came from, but only the general area of where it did - concepts.
+
+If not contextually related, how can some mems last longer under diff env circumstances? If you combine context and neural networks, you can begin to see the neural repres of context/env.
+
+If you try to recall s.th. specific in a general category, your brain takes a tour of that category to try to remember. Memories are stored in relation to similar memories - thus one aspect of formation of complex neural networks.
+
+Many diff things happen when we remember, from synaptic plasticity to category lookups - everyone has diff genetics, and thus diff bhs - “polymorphisms” - can have polyms for rel of presyn glutamate, strength of postsyn recept response, ways in which neural networks are constructed, each own variable, leads to diff, individ ways to remember things.
+
+Autonomic nervous system - controls automatic/involuntary mvmts - heartbeat, digestion, goosebumps, etc.
+
+Nervous system split into central/peripheral nervous system.
+Peripheral NS split into somatic/autonomic NS
+Somatic - voluntary NS, sensory info - controls muscles - mylenated, fast
+Autonomic - involuntary NS, controls organs - unmylenated, slow
+Autonomic split up into para/sympathetic NS - tend to work separately / in opposition.
+
+Sympathetic - involved in arousal, alertness, emergency, fight-or-flight, stress. Rels norepinephrine (NE) in target organs (mostly heart/lungs, digestive/excretory organs).
+
+Para - involved in growth, repair, calm/relaxed/sleep states. Rels acetylcholine (ACh) to same organs as symp, but for rest/relaxation
+
+What happens to your organs when the para/symp NS activates?
+
+symp activates -> inc heartrate, blood pressure, vasoconstrict, blood goes to muscles, brain, eyes
+parasymp activates -> dec heartrate, vasodilate, blood goes to GI tract, stimulates secretion of digestive juices
+
+symp not always excitatory - GI tract
+para not always inhibitory
+Two diff recepts needed for each system.
+symp can have excitatory NE recepts on some organs (eg heart) and inhibitory NE recepts on others (eg GI tract)
+para can have excitatory ACh recepts on some organs (eg GI tract) and inhibitory ACh recepts on others (heart)
+
+symp/para work together in male reprod system 
+para activates -> get erection
+symp activates -> have orgasm
+
+60% of ED cases due to stress - para doesn’t activate under stress
+
+para on - can take care of immune system, make white blood cells
+symp on - can’t take care of immsys, can’t make WBCs
+
+when para is on, symp is off, and vice versa.
+
+para/symp don’t always excite/inhibit, they drive organ function:
+
+Need two recepts for both NE and ACh
+
+Inhibitory ACh receptor -> heart slows down
+Excitatory NE receptor -> heart speeds up
+
+Excitatory ACh receptor -> digest food
+Inhibitory NE receptor -> stop digesting food
+
+symp recepts are called “alpha/beta androgenic receptors” - beta blockers block the symp recepts, slow down heart, reduces stress
+para recepts are called “muscarinic/nicotinic cholinergic receptors”
+
+autonomic NS reg:
+
+hypothalamus - center of reg, directly affects pituitary glands, one synapse away from connections to organs, tells spinal cord what to project onto organs
+
+baroreflex - makes sure heartbeat is regular and BP is normal. Ex: low BP from hemorrhage -> barorecepts in blood vessels send info to hypo, sent to spinal cord to get ANS response -> adj BP by activating symp to make heart beat faster. Para decs BP
+
+Emotions
+
+Limbic system (emotion, bh, mem) - emotional area of the brain surrounding hypothalamus - connected to thoughts - think about someone you hate - similar response to injury
+
+Cognitive Thoughts
+
+Cortex important for thoughts, memories - thinking about a test, activates cortex -> activate limbic system -> activate hypothalamus -> symp response
+Overactive symp can lead to clinical depression
+
+Plasticity of ANS
+
+ANS function can change over time - ex: heavy sustained stress - inc synthesis of NE-making enzymes - ex: SNS projects to skin, eyes, nose, etc - can change sensory receptor thresholds - ex: biofeedback and BP - exposure therapy works bc of this.
+
+
