@@ -1,0 +1,273 @@
+# Endocrinology
+
+## Lecture 12 (Endocrinology):
+
+All about hormones and how the brain controls them, and they control the brain.
+
+When life first arose, things were in single cells, and interacted w. the env this way. When multicell life arose, cellular comm became an issue. 4 main ways cells talk to each other
+cell-cell contact - short range - 1:1 message passing btw neighbors
+paracrine - short range - whispering to several neighbors
+neuronal - long range, fast, highly specific - texting friend
+endocrine - long-range, slower, very widespread - emailing entire class - about horms in bloodstream
+
+Hormones work by coordinated comm - 2 great advantages:
+developmental: coordinated transformation of all cells in org - metamorphosis
+adult org: coordination of body’s response to a given env trigger - 
+
+Hormones: 3 kinds: peptide, steroid, and single-amino-acid-derived hormones. Talking about distinction btw pep/ster horms, structural diffs and that effect on its transportation, function, etc.
+
+peps made from amino acids, hydrophilic molecules (insulin, vasoprecin, oxytocin, acth)
+ster made from cholest, hydrophobic, lipophilic molecules (glutocorticoids, androgen, estrogen)
+
+steroid horm - single amino acid - come from similar precursors - results in looking very similar, thus needing recepts specialized for subtle chemical diffs - recepts for NE and dopamine - if can’t distinguish, can have drastic effect.
+
+(some NTMs can be rel’d into bloodstream, acting as hormones [dopamine, epin])
+
+pep vs ster horms transp in blood:
+peptide: water-soluble, travels freely in bloodstream
+steroid: water-insoluble, travel bound to chaperones
+
+other things that can be learned by horm structure = 
+
+interaction with the target cell:
+peptide (eg insulin) - quick onset, short duration, main effect: protein activity. Bc hydrophilic, can’t travel thru cell membrane (made of phospholipids - recepts on cell membrane) - typically assoc w/ secondary messenger responses - binds to surface recept, sends secondary messenger cascade response - leads to # of effects: activates ion channels, affects/acts on proteins in-cell, can affect nuclear transcription.
+
+steroid (eg glucocoritcoids) - slow onset, long duration, main effect: transcription. Bc lipophilic, passes thru cell membrane and binds to in-cell recepts - can go directly to cell nucleus and affect transcription - takes longer to start transc procs - changes rate of protein prod, rather than shape of existing proteins. In-cell recepts often located in cytoplasm, nuclear membrane.
+
+Cholesterol - hydrophobic - made of lipids
+
+If hydrophobic, then lipophilic - polar/non-polar - water is polar, so hydrophilic things tend to be polar, hydrophobic tend to be non-polar
+
+How does the brain control horm rel?
+
+Many rel sites in body - endocrine glands (pineal, hypothalamus, pituitary, para/thyroid, thymus, adrenal, pancreas, ovary/testis) - specialized structures that pump horms into bloodstream
+
+Brain itself has endocrine glands - hypothalamus, pituitary, often regulate other glands in body - “master of these witless organs” - controls amt of horm rel’d
+
+pituitary - anterior/posterior pituitary - antp secretes horms, postp secretes diff set of horms - antp receives horms from hypo and tells its cells to rel their horms to their target organs, postp directly innervated by nerves in hypo (to remember: ACTH) - postp rels oxy/vaso horms.
+
+Ex of how all these systems work together: hypothalamic-pituitary-adrenal axis (HPA) - adrenal reg’d by env horms from pit - cascade of evt’s that allow brain to control peripheral glands - hypo leaks CRH into portal vessel of antp, activates endocrine cells to rel ACTH into blood - travels thru entire body to adrenal cortex - rels glucocorticoids (stress horms) in form of cortisol - cells w/ recepts respond (pit, thal) to allow pit to know how much cortisol is in system - gets response from cortisol and relaxes rel - “negative feedback” - the more cortisol sent out, the less ACTH sent out
+
+Horm action in brain
+
+can it get past blood-brain barrier (b3)?
+does the neuron have correct recept?
+once bound, how does it influence activity?
+
+horm rel’d from endo gland- starting from a target organ - must travel thru bloodstrm - cortisol needs sig from ACTH to be rel’d
+
+B3 - blood vessels in brain - barrier made with epithelial cells lining the blood vessels creating tight junctions that highly regs what goes into the brain - can horms go through? Bc epithelial cells, horms lipophilic, goes thru - pep horms can’t pass thru on their own, need escorts 
+
+horms need appropriate recepts - glucocorticoids (steroid) - glucorecepts clumped in areas of rat brain (hypo, hippo) - every horm has unique recepts - when thinking about bh, consider recept loc in brain, type, and amt of recepts
+
+type of recepts - individs have diff types of dopamine recepts, ex, pop has variations of recepts
+
+# of recepts - lots -> higher sensitivity to horm, less -> lower sensitivity - there’s lvl of horm and lvl of recepts - both affect bh output - effect ex: horm lvl can affect up/downregulation of recepts - certain # of recepts, flooded w/ horms, recepts downreg - not enough horms, available recepts upreg, inc sensitivity to scarce horm
+
+Horm action on the brain
+
+potential effects of horms on neurons:
+change membrane potential via ion channels
+change transcr of genes (incl recepts)
+change in protein activity and transport (these proteins may be involved in many diff things: neurotransmission, synapse formation, etc.)
+
+once horm bound to recept, can change mempot of cell, making it easier/more diff to start APs - can change transcription of genes, could be receptor genes that affect recept up/downreg, etc. - could change protein activity in transport - horm binding has wide cellular effect, even in networks of cells (eg neurons)
+
+horms influencing bh-affecting neurons - what’s to come
+
+stress - glucocorticoids
+sexual bh - testosterone, estrogen, vasopressin, oxytocin
+aggression - testosterone, glucocorticoids, estrogen, epinephrine
+depression - gluco, thyroid gorm, estrogen, progesterone, melatonin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 13 (Adv Neurology and Endocrinology):
+
+2 take-aways from last lectures:
+Lots of diff ways nervous/endo sys can change function over time.
+Lots of realms where there will be individ diffs.
+What you should be able to do now:
+Where diffs come from (genetic influences)
+Understand if->then clauses and how horms tie in.
+
+Limbic system is the domain of NS that defines who we are. Med school will pound spinal cord workings into you and largely ignore limbic system.
+
+Now we’ll be building off of the last two lectures, and learning about more complex sys that gen more comm possibilities, more possibilities of individ diffs, and more ways for things to go wrong
+
+Dale - neurobiologist - two laws about NS - 
+1: 
+2: each neuron has 1 characteristic NTM type rel’d from axon term - diff in type of recepts it has. Disproved in 80’s when multiple NTM’s rel’d by individ neurons.
+
+NTMs rel’d from vesicles in axterm by exocytosis - ppl found that NTM types came with two types of NTMs in same vesicles - occurs in lots of diff types of neurons - lots more potential for info. If two diff NTM in same axTerm vesicle - tend to be totally diff structures - diff uses, actions, speeds, etc. - if two diff, one works more rapidly for shorter effect (eg ionic excitability changes), other works more slowly for longer effect (eg changing gene transc, structure). Bizarre happening with multiple NTMs: one will have recepts on neuron itself - more to come.
+
+Similar principle in endo - one message having multiple messengers, same source of info is  carrying multiple messengers - pituitary, antp glandular cells rel’ing ACTH - CRH (brain as an endo gland) - hypothalamic horm at base of brain rel’d into local circ sys into gland that dumps ACTH into bloodstream. 
+
+Lots in this lecture to do with reg of adrenal-cortical sys.
+
+Neuro-endo access - brain rels horm into local circsys - stims pituitary to rel horm in response which does s.th.
+
+W/ CRH, can have multiple messengers - CRH not only horm from base of hypo that can rel ACTH during stress - whole array of these - neurons in hypo rel vasopressin, others rel oxytocin, NE, epi - all stim rel of ACTH.
+
+Lots of work in 80’s revealed “stress sigs”: diff types of stressors activate diff types of ACTH-rel’ing neurons - low BP, low blood sugar - sig at hypothalamic lvl reg ACTH rel.
+
+Why have diff ways of doing it? 
+Diff orchestrations of ACTH rel, diff ways it can be rel’d for diff results (diff rel profiles, rel curves).
+Each horm does other stuff as well as rel’ing ACTH - has side effects.
+
+Sometimes, horms coming into hypo inhibit rel of ACTH, rel another horm as side-effect - “corticotropin-inhibiting factors” - hard to figure out what these are - peptide called “delta sleep-inducing factor” - turns off stress response.
+
+Bidirectional control, wide array of control for ACTH rel - diff ways of translating diff stressors into diff endo profiles - means getting stressed by X is handled by different sets of ACTH neurons than getting stressed by Y - suggests huge amount of coding information in spinal cord prod diff arrangements of horm dumps
+
+Can have multiple ntms coming from same neuron - array of horms bring about same general response differing in fine-tuning the sys
+
+Dale’s law 1:
+
+Neuron: depolarization, raises + charge of neuron -> get to axon hillock -> down axon (“action potential”) -> ntm rel’d to every branching axterm.
+
+Dale’s law 2 = trashed. Jerry Letwind MIT - wrote transformative neurosci papers - 70’s - in some circums, some end branches can be squelched - whole new world of controlling info flow - neurons can control which branches receive their message.
+
+Shown that wave of excitation coming thru diff dendritic spines, ways in which some branch pts can be unidirectionally blocked.
+
+Happens with endo sys too - hypothalamic horm -> pituitary horm (FLATPEG)
+Specialized pit cells that only prod growth horms, only secr lactin
+These specialized cells arranged mosaicly thru-out pit - local, neighborhood effects ex: somatotropes sec growth horm in prolactin/FSH neighborhood, amt secreted depends on which neighborhood - implies comm btw individ pit cells - response dependent on cell’s neighborhood.
+
+Hypo maps horms to diff sites in pit with diff cell targets in diff neighborhood.
+
+If you’re a neuron, you get excited, rel NTM into synapse, have to clean up - rm ntm, break down - you’re the endo sys - want adrenals to sec glu - need to know when to stop sec - negative feedback.
+
+If enzyme A turns product B into product C, A knows when to stop making C because it’s building up, inhibiting A’s activity. “Feedback reg” 
+
+-fb - “negative feedback / loop”
+
+Ex: “autoreceptors” - ntm’s with own recepts not only on postsyn, but presyn - for bookkeeping (self-checks, self-reg bh): if ntms pour out, some come back, and for every one that returns, a thousand, say, were sent out (statistical measure) - how amt of ntm rel’d is tracked. Some ntms stay in the presyn, plugging into their own autorecepts exclusively to do the bookkeeping.
+
+Endo systems have -fb too - mostly heard about horms getting into the blood and changing what you think, do, etc., but horms also report bodily horm lvls to the brain to do reg. How?
+
+Need quantitatively horm-sensitive part of brain that can measure amt of horm in blood - uses -fb with autorecepts
+
+Brain cells need to have responsive part of brain able to measure horm sigs - have to have rule describing needed lvls and send excitatory/inhibitory sigs to hypo to reg horm lvl - need to turn excitatory sig into inhib sig.
+
+More complicated than that.
+
+Ex: general rule - able to measure CRH coming from base of hypo - s.th. stressful occurs and it’s pumping out CRH, reached right glu lvl, -fb kicks in and stops hypo from rel’ing CRH. What measuring is the brain doing? Measures amt of glu in blood - if more, more likely to have reached desired pt. How most endo -fb works
+
+Whole other domain of glu -fb reg - brain doesn’t measure amt, but rate of change - diff domain of info - how many units of inc/second are you getting? from 10 to 12 units in 1 min - same as 1 million 10 units to 1 million 12 units in same time. Not measuring lvls, but rate of change.
+
+Some doms of stress responses where rate of change is measured, others where lvl is measured. RoC seems to be what is measured early on in stress response, lvls measured later.
+
+How does the brain measure RoC? No one knows yet, but theories/predictions abound.
+
+Mary Dahlman - UCSF, 1960’s - predicted 2 diff domains of glu fb - rapid-response RoC-measuring sys, delayed-response lvl-measuring sys - turned out to be right
+
+Diff parts of NS that do each type of measure - RoC not even occurring in brain, but in pit; not reg CRH rel, but ACTH rel
+
+We use -fb in our daily lives - filling toilet tank - need to measure amt of water (floatation device) and set pt to stop. Neuro-endo sys much more complicated.
+
+Sometimes have +fb, more horm in blood, more sys is stimulated - preg: massive changes in estrogen, progesterone, will be transient periods of +fb - need to get translated into cellular workings, hasn’t been done yet.
+
+Autoreg - cellular lvl - if somebody screams at you all the time, you stop listening - downreg of receptors - if big sig, downreg sensitivity to sig. If sig becomes weak, upreg of recepts - more sensitive to low horm lvls 
+
+Up / down reg a general feature of nendosys - what if autoreg stuff screws up?
+
+If screwed-up horm message reports double the actual amt of horm in bloodstream, body gens autoreg response that shuts off recepts to compensate - met with even more horms to compensate for the compensation. Downward spiral.
+
+If disease changes horm lvls/sigs - autoreg compensates - what if compensation over/undershoots? Mismatch - problematic.
+
+Depression: wrong lvls of ntms like serotonin, dopamine, NE - most anti-dep drugs change lvls of ntms, change in mood felt after mins, hours.
+
+Some antidepr like SSRIs (prozac) - don’t feel better for days/weeks bc they don’t necessarily change lvls of ntms, but causes autoreg change in # recepts.
+
+Some antidepr may not cause autoreg in simple recepts, but autorecepts too. Amt of horm/ntm makes a diff, but also amt/sensitivity of available recepts, can cause physio change, brain autoregs, and sometimes under/overshoots, causing disorders.
+
+Endo-equiv - adult-onset diabetes - if just ate, glucose in blood - pancreas measures lvls and pumps out insulin, stores unused in fat cells. Fat cells already full from typical American diet, fat cells don’t listen to the insulin - can’t take in any more sugars. Insulin resistance. 
+
+Pancreas pumps out even more insulin to try to compensate - fat cells downreg # of insulin recepts - downward spiral - pancreatic cells making insulin end up burning out. Too many nutrients, too much insulin.
+
+Over/undershooting of horms/ntms possible cause of many disorders.
+
+Depression might be caused by too much or too little serotonin bc of autoreg - experts don’t know which - why so hard to treat.
+
+Pit rel’ing many types of horms under the control of horm sigs from brain - pit not made of 1 type of cell that rels every type of horm responding to each type of messenger from the brain, but has multiple specialized cell types rel’ing only their own type of horm.
+
+Rather than having neighborhoods for specific cell types in pit, all types just kind of in there. Seems sloppy - any given pit cell goes about its business (responding to hyposig by sec its horm) being more/less sensitive to its hypothalamic sig, depending on which neighborhood it’s in.
+
+Ex: FSH-sec cells in GH neighborhood far more responsive to its sig than when in ACTH neighborhood or hodgepodge - inc ways for sec reg by determining which way hypo turfs sigs, aiming for which types? More reg that way. How? Comm btw pit cells. Pit not just sitting there, but is constantly self-reg.
+
+The more glu in blood, lvls being measured by part of brain. If gets too high, inhib sig sent to CRH neurons, they sec less CRH and turn off stress response.
+
+What about the other horm types (eg oxy/vaso)? Each comm w/ and reg’d by their own sensors.
+
+General principle on action of recepts - higher ligand lvls for a recept (ligand = the key for the “lock-and-key” mechanism), more likely to downreg
+
+Complicated recepts - bind their ligand and do s.th. in cell - lots of realms of recepts - made up of many diff proteins (“a complex”).
+
+Ex: receptor binding ligand - must come up w/ complementary shape - if recept consists of 3 diff proteins, means 3 diff genes for those proteins that make up 1 recept. Multiple genes means multiple flavors of those genes and much variability. Combinatorically many diff ways to make same receptor - some work better/worse
+
+Recept made of 3 proteins, 4 genes make proteins constructing it. Can be made of genes 1 2 3, or 2 2 3, or 1 1 1, or …
+
+Cells change subunits on their recepts - cause degradation of ex - 
+3-protein recept complex, 4 potential protein ligands - this one has 1 copy of A, B, and C - s.th. may happen that causes neuron to degrade copies of B and replace with D or other copy of A - changes receptor effectiveness just by changing 1 part of 1 ligand of 1 recept… changes how well protein does its job
+
+subunit changes seen all over - ex: glutamate recepts - complicated, essential for learning - part of learning involve not only inc copies of glut recept, but subunit composition, for more responsive, excitable v. of receptor
+
+Diff type of recept w/ abnormal subunit - cell prone toward insane excitation lvls - congenital epilepsy - wrong subunit winding up in another ntm/recept - lots of room for mixing/matching of proteins, ligands, subunits, and recepts
+
+Flow of info from axon hillock - needs enough excitation for AP - threshold can change over time - changed subunit composition. 
+
+Similar: horm recepts - complexes - steroid horm recepts - 2 domains (1 binds horm, other binds to promoter DNA element [if->then]) - all sorts of steroid horm recepts have various other proteins they bind - “cofactors” (cofs) 
+
+diff arrays of cofs in diff cell types - results in cell-type-specific coding - cells change which cofs they have holding on to those recepts
+
+Passed the notion of only 1 type of ntm for each neuron
+Passed the notion of the same AP rel’ing horms at every axterm dendrite downwind of synapse
+Now, at notion of diff # and sensitivity of recepts and their composition - additional complication: lots of recepts can bind more than 1 ligand
+
+GABA - brain’s main inhibitory neurotransmitter - GABA recept binds GABA - found on dendritic spines of GABA-resp neurons, neurs upstream rel GABA as resp from their AP - when bound, neuron becomes less excitable
+
+GABA receptor insanely complicated protein complex - binds other horms - 3 classes:
+Major tranquilizers (barbituates) - no barb recepts, binds to minor binding site on GABA, Barbs make GABA more inhibitory - enough to knock you out. 
+Minor tranqs (benzodiazepines) - anxiety disorders related to specific flavors of genes for benzo recepts (from earlier) - this is what those genes are: coding for subunit of GABA that binds benzos.
+Additional binding site responding to horm derivatives - progesterone - steroid horm - has slot for progesterone. Why? Prog potentiates GABA effects.
+
+1950’s - alphesin, deriv of progesterone used as common anesthetic - potentiates GABA inhibition sigs - shortage of prog = something to do with mood shifts during reprod cycle/PMS
+
+Two neurons: A and B - B sends excitatory ntm (eg glut) to A - another neuron sends inhibitory ntm (eg GABA) - implies that A’s dendritic spines have recepts for both ntms - more complicated than this.
+
+GABA never sends to our neuron A, but sends to axon connecting A and B (“axonic synapse”). Why? The GABA is snuffing out B’s signal, and when B tries to give A an AP, it’s silenced. Having axosyns implies that GABA never touches A at all, and still snuffs it out by silencing B, reg bh of A. GABA plays neuro-modulatory role in NS as opposed to neuro-transmission. Another if->then - dec excitability iff this neuron sends excitatory sig.
+
+Ex: barbituates - don’t make neuron less excitable, iff GABA coming in, makes it work better instead of inhibiting the neuron. Minor tranqs, prog, same thing. If->then clauses everywhere.
+
+Ex: endosys equiv for modulation - measuring amt of ACTH coming from pit (many different ways it can be rel’d) - x amt of CRH in pit, y amt of ACTH comes out - 
+
+2nd run - instead of putting in just CRH, put in some vaso too - heightened ACTH secretion
+
+3rd run - just vaso by itself - no ACTH gets rel’d bc vaso doesn’t do that, it just augments the effects of CRH. Does nothing by itself iff there’s CRH getting to pit cells.
+
+None of the other releaser horms (oxy/vaso, NE, etc.) are direct releasors, all are simply augmenting CRH’s effects - enourmously complex web of if->then clauses, various horms/ntms/ligands not causing anything, but only acting if their augmenters are there. Gives lots of variability.
+
+Change subunit, change excitability/effectiveness of ligand/recept system.
+
+
