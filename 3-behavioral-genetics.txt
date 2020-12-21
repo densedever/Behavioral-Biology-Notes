@@ -1,0 +1,259 @@
+# Behavioral Genetics
+
+## Lecture 6 (Behavioral genetics 1):
+
+How do you know when bh has genetic component? Look for patterns of shared traits in groups sharing genes. If you see a trait that is universal in a species, then obviously this is genetic.
+
+Fruit flies share traits in species, but this is not the case in bigger species.
+
+Traits run in families, so do genes, so genes are the basis for those traits. No, because environment also runs in families.
+
+So it’s not just the genes, it’s relatedness. “2 brothers 8 cousins” - If a trait is more common the more closely related you are, then that points to genetics. No, because you share env more with closer siblings too. This weakens the classical approach to the field.
+
+Control for env and examine relatives sharing it - look at genes shared within these groups. 
+
+Ex: monozygotic twins vs dizygotic. Mono shares 100% of genes, di shares 50%, so raise mono in same env and look at the traits of both mono and di, ruling out environment. This doesn’t work because sometimes di are different sexes.
+
+Restrict to same-sex, and do the comparison again. If a greater amount of traits are shared among the mono vs the di, then that shows a genetic basis for those traits, right?
+
+Aside: armadillos always give birth to 4 identical offspring at once.
+
+This approach has problems. There’s a lot of env variance in di vs mono. Treated differently. If bh traits are shared more btw mono vs di, it could be because they share genes, and/or env. Flawed approach.
+
+Another problem: mono don’t always have same env - don’t always get treated the same. Twins in fetal life - placenta forms - if mono splits within 5 days, they develop separate placentae (bichorionic), but share a single placenta otherwise (monochorionic pregnancy). Monoch share bloodflow, bi gets subtle differences in blood, such as diff nutrient lvls. Don’t think this is a subtle thing: mono have more similar IQ’s than bi.
+
+Marmoset monkeys - mothers always birth twins - screwy circulatory systems - researchers looked at differences in blood.
+
+Even though the twins share post-natal env, their prenatal is slightly different, leading to differences in development.
+
+Look at bh traits where env is same - gender diff - genes produce gender - differences in traits btw genders can be traced back to diff in genes. No, because shared env exp of individs is diff. Postnatal males move their bodies more than fem after 1 hour of birth. That’s not a lot of time for env to take effect, so this must be due to genetic diff, right?
+
+No, bc the mother treats males and fems diff from first interaction. Diff in how long held, bodily/facial proximity, etc. This happens only seconds after birth, so this notion is trashed.
+
+80s - Johns Hopkins - Benbo & Stanley - JH gifted youth prog - massive decades-long study of gifted kids - 40K kids - looked at math skills according to sex - boys higher SAT scores - highest range: 13:1 ratio boys - published in Science mag - said that kids didn’t differentiate classes - exact same classes. “Since all children had essentially similar edu env, any gender diffs reflect bio diffs.” Went out as showing finding of “the math gene.” Completely ripped apart - env not same at all. Boys more likely called on, more likely praised for correct answer, recommended higher math classes more by guidance counselors, etc. More interesting findings underlying this paper, more to come.
+
+Look at inds who don’t share genes, but are raised in similar env. Same env, diff genes. adoption studies - raised by unrelated parents - looked at patterns of shared traits. Which sets of parents do they share more traits in common with? 
+
+Cross-fostering - take two newborn litters and switch moms - raised by diff moms, but now share env with. Half litters switched, too.
+
+Landmark study - 70s 80s - Seymore Ketty, Harvard - schizophrenia - tested for biological/genetic component - adopted schiz - more likely to share traits with bio parent or foster parent? Not an easy study to make - went to Scandinavia - keep records about everything - went through Denmark’s entire database and found real parents of all adoptees who turned out to be schizophrenic. Personally Followed up to ensure same diagnostic tools/methods/doctors used - huge amt of control - found patterns of similarity - take rand schiz and normal person - what odds of sharing X trait? 1% likelihood. So, 1% likelihood of schizophrenia. 
+
+Personal note: total pop of adoptees, split into pop groups, each group has different number for total pop in each group, so 1% number might not scale up, unless same-size sample groups taken from each pop group.
+
+Start with non-schiz parents, and non-schiz foster parents - 1% rate.
+
+Start with non-schiz parents, and schiz foster parent - 3% chance.
+
+Start with non-schiz foster parents, but have biological legacy of schiz - 9% rate - roared thru field - biggest evid of genetic comp to schiz.
+
+Start with schiz bio-parents, fostered by schiz foster parents - 17% rate. Interesting number, bc the rate of non-schiz bio p’s & bioleg + schiz bio p’s & bioleg != ~11%. Here is a non-additive synergism.
+
+This got Ketty a number of Nobel prize nominations, and his study became the gold standard for genetic studies in the future, many of which also showed non-additive synergism. These were claimed to be evidence for genetic components for those traits in question (traits like criminality, alcoholism, etc.).
+
+Number of problems with this approach.
+
+Under best of circumstances, the people in this study were not taken from bioparents a second after birth, there is a varying amount of lag-time that could never be factored out of the original study. Prenatal env is also huge confounding factor. 
+
+How do you control for these? See trait shared with indiv and bioparent despite being immediately adopted, infer genetic comp. No, because prenatal env is diff. That may explain shared trait. 
+
+How to factor that out? Measure traits shared with both father and mother, and cut out prenatal effects. If trait shared 10% with mother, 17% with father, the odd 7% is prenatal. General assumption of the time, but some problems with this.
+
+One problem is lying/mistaken fathers who say the kid is theirs when it isn’t. Paternity uncertainty confounds the numbers.
+
+Another problem: Princeton - Leon Camin, psych - showed adopted family placements are non-random. Instead, the kids are matched with traits of parents under different domains. So the kids share a lot of biology with adopted parents. 
+
+What’s the next approach? Identical twins separated at birth - adopted into diff households - identical genes, diff env - other geneticists came in their pants.
+
+Tom Bruchard, behavioral geneticist U of M - published papers when he found 40 pairs of these twins who were introduced to each other later in their lives, produced mountains of data.
+
+One pair of itwins, radically different upbringing - both flush the toilet before and after. Both have a poodle named fluffy. Radically nutty shit. Most reliable findings: about 50% heritability of IQ and place on intro/extroversion scale, and degree of aggression. Still many problems with this approach.
+
+Camin - not a lot of cases of separated twins, and the separation wasn’t by chance anyway. What’s the solution to that? Let’s look at similarities btw mono/di twins separated and reunited, compare the difference of traits, and factor those out. Still too small of a sample size to gain useful data.
+
+What’s another way to take out fudge factors? Trying to take out traits that are there absent any env influence. All babies smile, for ex, and use same muscles and start smiling socially at a certain age. 
+
+But, videos of fetuses show in utero smiling, so social smiling is affected by behavior after all. Except it’s not, because blind babies smile at same age, too. Deaf babies start babbling at the same age hearing kids do.
+
+So prenatal env effects started to be looked at, and they found that geneticists looking at adopted babies, even taken a second after birth, were still subject to fudge factors. 
+
+The previous twin studies operated under the assumption “env starts at birth”, and this fails in a number of ways.
+
+Each mother is experiencing different things, and these experiences have different physiological effects on them, and thus their babies.
+
+Fred von Saul - U of Missouri - rats give birth to dozens at a time - blood loops around to each fetus, but each individ gets similar blood to immediately adj fetuses. 
+
+Take female rat fetus - one with two brothers on each side, another with one brother/one sister, another with two sisters. This translates to different hormonal env. The more male blood she has around her, the later she enters puberty. This env dictates her dev later in life, also affecting when androgen lvls drop when the rat ages.
+
+In humans, the age at which a mother gives birth affects the age at which the child enters puberty - the children of younger and older mothers reach puberty later than mothers at intermediate age due to differences in estrogen lvls.
+
+What if you get shot up with stress horms in utero? - glucocorticoids - In rats, when mom is stressed, the children will be more prone to anxiety, have affected benzo receptors, have smaller brains, thinner cortexes, lower IQ’s, etc.
+
+You are a rat who was marinated in stress hormones as a fetus. You will have an overall smaller brain, specifically the part that turns off stress responses. You’re then not as good at blocking gluco secretion after stress and thus have higher gluco lvls in your blood. Now you get preg, and your baby will have the same thing.
+
+What happened to your grandmother is now showing up in you. Was proven in late 60’s, called the “grandmother effect.” Found that the effect waned and wore off after a few gens. This is inheritance of a non-genetic trait (epigenetic/non-Mendelian trait).
+
+Now, you’re a researcher studying a rat a second after it’s born, and see higher glut lvls, smaller brain, etc. and you’ve never heard of non-Mendelian traits, so you assume there’s a genetic basis.
+
+Nutrients are also shared btw mother and child through blood, and this dictates how the child stores nutrients in its body - Dutch Hunger Winter, 40K ppl starved - if you were a 3rd tri fetus, your body got stingy with nutrients, and when you grow up and eat heartily, you’ll have a %1,900 higher risk of obesity and diabetes.
+
+Showed that the programming of the metabolic system happens later, during late-2nd, early-3rd tri. Starting new area of study: Fetal origins of adult disease.
+
+You’re a mother from the DHW and eating a normal diet - since your nutr lvls are lowered, from being stored away, your baby had fewer nutrients in utero and now has a milder version of what you have. Has now been shown in gmothers of DHW children.
+
+Another dietary effect: you’re a female fetus - your estrogen lvls matter, but also where you get it - some plants have phytoestrogens, and if you eat high levels of that, you have an increased risk of estrogen-related breast cancer 20+ years later. 
+
+A fetus can learn in utero - inject preg rats with flavored water and sucrose, and the fetus will grow up preferring that flavor.
+
+Human study - diaphragm is good resonating membrane, so fetus hears mother’s voice very readily - in tests, mothers read books aloud - either Cat in the Hat, or sets of carefully-selected phrases multiple times a day - test newborn on listening preference - when newborns like s.th., they make sucking noises - made more when read Cat in the Hat, indicating preference.
+
+Fathers studied too - megaphones on belly - doesn’t work
+
+Darleen Francis - Berkely - different rat strains bred for diff anx lvls - did adoption study by transferring fetuses - fetus’ anxiety lvls matched non-transferred fetuses. Took high-anxiety rats, gave them low-anx rat fotuses, and the fetuses grew up to have low anx lvls.
+
+These tests were controlled by measurements from the fathers, and this introduced a bunch of problems because the levels of interaction of the fetus with the father is vastly diff. 
+
+Go back to the cell - cells have mitochondria, which have their own DNA - 
+
+Lynn Marley - U of Mass - posited mito used to be independent orgs that are symbiotic with cells, so the powerhouse of the cell basically runs on “foreign” DNA (not all in the mito, some outside) 
+
+Sperm and egg - egg has mito, sperm doesn’t (sperm contains exclusively DNA) - all your mito comes from mom, so not %50/50 split in genes from mom n pop, majority comes from mom. An assumption of 50/50 could be a fudge factor in earlier studies.
+
+These egg cells, in addition to cytoplasm, also have other stuff floating around in them, such as transcription factors, which sperm do not have in them, so all transcription factors acting on the sperm’s DNA come from the mother.
+
+So if both dad and mom have TF’s what’s the signif of getting only mom’s TF’s? 
+
+Two genes - one codes for TFa, another codes for gene X. There are promoters responsive to TFa, TFa turns on the proteins synthesizing gene X, and also turns on TFa’s gene. It’s a positive feedback loop making more and more.
+
+Suppose TFa is the only thing that can turn on TFs for gene X, and an env event knocks out TFa in an egg. Gene X is never made. Now you’re making eggs with those genes, but where TFa and gene X are never expressed. The egg’s fertilized, and the trait passed on.
+
+This is another non-Mendelian trait that will be in the entire genetic line from then on forever.
+
+This is an example of a Lamarkian trait - an inheritable trait gotten from the env.
+
+So, the assumption that seeing more trait-sharing with the mother than the father, that’s because of changes in the prenatal env is smashed.
+
+Even if there is a 50/50 split of DNA between parents, that still won’t matter because of imprinted genes. There will still be a slant away from the middle.
+
+Even after all of this, there are still bh influenced by genes that obey every rule set down thus far. So sometimes there are genes that infl bh. But there’s another possibility.
+
+Judith Rich-Harris - psychologist - “The Nurture Assumption” - section on genetics and bh focusing on “indirect genetic effects”
+
+Go back to “50% intro/extroversion” with twins separated at birth - height/appearance is one of most highly-heritable traits - taller people treated better, considered more attractive, and fetuses treated nicer in utero/at birth become more extroverted. 
+
+This inheriting of that trait changes your epigenetics, and thus your personality. Most intr/extrov caused by treatment in dev.
+
+Another ex: chickens, turkeys, etc. - social rank partly based on iridescence of plumage - less fancy chickens get picked on, and are thus lower social rank. The lower social rank isn’t inherited (think back to the lions), it’s determined by feathers.
+
+Another ex: chicks seem to be born pecking at the ground for food - appears to be inheritable trait, but the real trait inherited is a tendency to peck at their own toes - wrap their feet, and they don’t peck.
+
+Another ex: ~70% inheritability of political affiliation - stands up well to old models, but actually caused by personal preference for/tolerance to ambiguity - conservatives generally hate it, and dems generally don’t mind.
+
+
+Another ex: rats dev’d with diff aggro lvls - what’s really inherited is low pain threshold. Again another fudge factor that might have featured in prev studies.
+
+Some consequences come because of gene expression and regulation by chromatin - caused by epigenetics and inheritable for several gens or indef.
+
+This turns out to be what caused the conditions of the Dutch Hunger Winter ppl - multi-gen inh of epigen traits caused by epigen diff in genetics of TF to genes related to insulin metabolism.
+
+Michael Meany - McGill U - newborn rat - pick up and pet for 2 min every day for first two weeks - all else = -> bigger brains, better learning capability, lower gluco lvls, res to neuro disorders - “neonatal handling”
+
+Do the same thing, but take the rat away from mom for an hour and a half, and it ends up with a smaller brain, thinner cortex, etc. This ends up not being good for the babies.
+
+After the hour and half, mom ends up ignoring the pup for hours after put back,  when it’s happy to see its pup after 2 minutes away - it’s not what you do to the pup, but the maternal changes happening to it.
+
+Meany wanted to know the natural purpose for this bh - looked at diff in mothering styles - neonatal handling based on length/style of grooming - effects were multi-gen - carries bh to their babies - results in better/worse rat mothers over time through non-Mendelian means.
+
+These studies found out that diff in NH in these rats changed access to TFs for activating genes for making stress hormone receptors, estrogen, etc.
+
+Also showed the effects are reversible - baby rat spends 1st ½ of infancy with negligent mom  - cross-foster the pup to an attentive mom, and the epigen patterns change - early and late experience all go into dev - would be mistaken for genetic, but isn’t. 
+
+What’s next will disprove everything learned in last two lectures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 7 (Behavioral Genetics 2):
+
+Siberian silver foxes - bred for docility, phenotypes changed too. Metro dogs - live in Moscow’s subway systems - feral scroungers scared of humans - phenotypes similar to wilder dogs/wolves - silver foxes in reverse.
+
+This will now look at bh genetics from the standpoint of molec bio
+
+80s - molecular techniques began to be used in this field. Started primitively: know s.th. about the trait - about differences in the trait in individs - and then look for the gene. How? First classical way: start with observable phenotypical diff in two individs, two families, etc. and then find genetic diffs in many examples.
+
+More constrained version: not looking at phenotype, but proteins and what they do. This enzyme turns this into that in this way - these ppl have these protein variants, etc. - what genetic diffs do they have?
+
+Next: can’t see ext diffs - don’t know what protein does - look at diff sizes of same protein - might be diff functions. S.Th. to work with
+
+Next: intermediate physiolo endpoints - s.th. functional like how protein funcs - still s.th. to work with - what gene diffs are there?
+
+Trying to find gene for some disease - how field started - looked at extreme diseases - PKU in family or Huntington’s - have gib family - half have disease - blood samples from everybody - looking for DNA common to diseased members - found “genetic marker” - almost never individ gene.
+
+RFLP - early technique that found genmarks for some diseases - ppl check statistics for certainty that the DNA they’re looking at is actually gmark - big demand for certainty.
+
+Next issue: bioethics problem - may/may not have disease - too young for tests - should get tested if has gmark? Key feature of debates: don’t have gene, just stretch of DNA, might be wrong one. What if member watched family membs die from it? What if no cure? Will bad test results lead said member to suicide?, etc.
+
+Third: step up science to find gene - went on from finding gmarks to actual genes - find diffs down to gene pairs - current state of field.
+
+But, not a whole lot going on just with one gene (from last lecture). Many diseases such as Alzheimer’s, dementia, diabetes caused by not just one gene.
+
+Next field advance - searches for mult genes - microarrays - invented by Pat Brown (Stanford) - take gene chip, get all copies of RNA that individ’s cell can make, force cell to transcribe all genes it has, glue all RNA strands to chip, and you can look at all the RNA cell is capable of making all in one place with probes and find differences in those. Not looking at single genes, looking at info patterns.
+
+Another is QTL - quantitative trait loci - figure out some complex trait is modulated by x # genes.
+
+Lots of progress made - macromutation - variance of major stretches of DNA - copy-length variance - many duplicates made of DNA stretch - can you find traits occurring bc of diffs of # of copies?
+
+Take-home message: start with trait, find gmark, diff gene vers -> diff trait vers, moving from patterns of genes to gmarks to genes to bunches of genes to macro diffs. Other approach - got a gene, reasonable guess on what gene does, what sort of traits relevant - run it other way - two diff gene variants, look for diffs in bh or protein func/size - start with genetic knowledge.
+
+Mostly looking at bh endpoints. Lots of recent findings: animal research - know what it does in animals, there’s variability, so does it work similarly in humans?
+
+Ex: hormone vasoprecin - rodents - vaso recept - dep on which ver - if male vole, determines if mono/polygamous - vars not in genes, but promoters - one ver expr in diff brain parts than other. Hint that vaso has to do with social relations - 
+
+how to apply to humans? Do we know where the gene is in humans? Yes - HGP. Does it come in diff vars, do they differ in same way in rodents? Yes. Receptor gene same in all animals, but different promos.
+
+Now, look for diffs in ppl with one var vs other. Match for age, gender, etc. and look for bh. Problems? Already looking where you think you should be looking - might be s.wh. else?
+
+Ppl looked at with diff vers of vaso recept gene and found interesting diffs.
+
+Paper  - if human male has vaso recept gene vers found in mono male voles, that human has more stable relationships compared with those having other vers
+
+From same journal: diff in face-reading ability
+
+Evidence that autism-ridden families contain vasorecept gene mutation.
+
+Ex: gene coding for protein BDNF - brain-derived neurotropic factor - prompts neurons into growing new processes - in amygdala (has to do with fear, anxiety), BDNF plays role in causing amygdala growing new connections under stress (found in male rats) - trains rat to be anxious, hyperresponsive to scary things
+
+next step: bdnf has different genetic vars - diff ways it pops up in rats - find func difference. Look at gene in humans and rats - is same diff happening in both animals? Diff vers mapped to anxiety disorder, lvls of stress horms in blood, lvls of metabolic activity in amygdala
+
+Next: dopamine - drecept - many diff types of drecepts - D4 (drecept 4) gene has to do with a lot of diff bh in rodents, comes in diff vers - humans have similar variability. 
+
+Dopamine = pleasure, anticipation, reward bhs - diff vers of D4 map to risk-taking lvls, sensation seeking, novelty craving
+
+Ex: NPY protein - neuropeptide Y - to do with diff lvls of anxiety, amygdala activity diffs - diff vers, but not in gene, but promoter.
+
+All of these explain tiny % of variability in data - no sig diff with diff vers, not that deterministic, but some explanatory power.
+
+What this process of finding diffs in gene/promo vars and bh looks at is “nature vs nurture” - not just those two, there’s a third option: chance.
+
+Where will chance play in with this? Brownian motion in molecules.
+
+
